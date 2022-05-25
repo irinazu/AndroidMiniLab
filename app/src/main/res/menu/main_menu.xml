@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Settings"
+        android:id="@+id/menu_1"
+        android:orderInCategory="1"/>
+    <item android:title="Save"
+        android:id="@+id/menu_2"
+        android:orderInCategory="2" />
+    <item android:title="Open"
+        android:id="@+id/menu_3"
+        android:orderInCategory="3" />
+</menu>
